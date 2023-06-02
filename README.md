@@ -1,6 +1,6 @@
 # Gospel Fire
 
-Gospel Fire is a Chrome extension that brings the power of the Bible to your browser. This extension randomly generates verses from the Bible and displays them on your screen, providing you with a daily dose of inspiration, wisdom, and spiritual guidance.
+Gospel Fire is a Chrome extension that brings the wisdom of the Bible to your browser. This extension randomly generates verses from the Bible and displays them on your screen, providing you with a daily dose of inspiration, wisdom, and spiritual guidance.
 
 # Features
 * Randomly generates Bible verses
